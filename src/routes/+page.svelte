@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import type { PageData } from './$types';
+    export let data: PageData;
+</script>
+
+<h1>Congratulations on conquering auth!</h1>
+
+<div class="p">{data.username ?? "Error"}</div>
+<img src={data.picture} alt="User">
