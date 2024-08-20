@@ -1,9 +1,10 @@
 import type { PageServerLoad } from "./$types";
 import { redirect } from "@sveltejs/kit";
-import { db_client } from "$lib/server/db_client";
 
 export const load: PageServerLoad = async (event) => {
 	if (!event.locals.user) redirect(302, "/login");
+	if (event.locals.user.firstTimeSetup) redirect(302, "/setup")
+		
     console.log(event.locals.user)
 
 	return {

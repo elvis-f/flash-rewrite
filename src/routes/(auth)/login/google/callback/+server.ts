@@ -58,7 +58,8 @@ export async function GET(event: RequestEvent): Promise<Response> {
                   id: userId,
                   google_id: googleUser.id,
                   username: googleUser.login,
-                  google_picture: googleUser.picture
+                  google_picture: googleUser.picture,
+				  first_time_setup: true
                 },
               });
 

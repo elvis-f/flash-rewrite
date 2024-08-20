@@ -23,7 +23,8 @@ export const lucia = new Lucia(adapter, {
 			// attributes has the type of DatabaseUserAttributes
 			googleId: attributes.google_id,
 			username: attributes.username,
-            googlePicture: attributes.google_picture
+            googlePicture: attributes.google_picture,
+			firstTimeSetup: attributes.first_time_setup
 		};
 	}
 });
@@ -39,4 +40,5 @@ interface DatabaseUserAttributes {
 	google_id: number;
 	username: string;
     google_picture: string;
+	first_time_setup: boolean;
 }

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.595079mm"
+   height="4.4607244mm"
+   viewBox="0 0 12.595079 4.4607243"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="flash_logo.svg"
+   inkscape:export-filename="flash_logo.png"
+   inkscape:export-xdpi="604.99811"
+   inkscape:export-ydpi="604.99811"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="46.352862"
+     inkscape:cx="54.850983"
+     inkscape:cy="13.257002"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient3-1">
+      <stop
+         style="stop-color:#ee6800;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#ff11b6;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3-1"
+       id="linearGradient4"
+       x1="40.97234"
+       y1="58.80851"
+       x2="45.784168"
+       y2="58.80851"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.73177,-51.442323)">
+    <g
+       id="g1">
+      <path
+         d="m 160.31405,198.45499 q 0.204,0 0.444,-0.084 0.312,-0.108 0.312,-0.288 0,-0.204 -0.432,-0.204 h -4.032 q -0.24,0 -0.504,0.168 -0.264,0.168 -0.396,0.408 l -5.568,9.636 q -0.18,0.312 -0.18,0.648 0,0.192 0.072,0.3 l 1.584,2.712 q 0.072,0.108 0.18,0.108 0.204,0 0.384,-0.312 l 5.892,-10.212 q 0.132,-0.24 0.396,-0.408 0.276,-0.168 0.516,-0.168 v 0 q 0.204,0 0.444,-0.084 0.312,-0.108 0.312,-0.288 0,-0.204 -0.432,-0.204 v 0 q -0.324,0 -0.324,-0.288 0,-0.132 0.084,-0.288 l 0.336,-0.576 q 0.132,-0.24 0.396,-0.408 0.276,-0.168 0.516,-0.168 z m 2.748,-1.212 q -0.072,-0.108 -0.18,-0.108 -0.192,0 -0.372,0.312 l -1.92,3.312 -3.66,6.336 q -0.084,0.156 -0.084,0.288 0,0.288 0.336,0.288 h 2.88 q 0.228,0 0.492,-0.168 0.276,-0.168 0.408,-0.408 l 3.624,-6.264 q 0.144,-0.252 0.144,-0.552 0,-0.204 -0.072,-0.324 z m 20.86801,6.396 q 0.228,0 0.492,-0.168 0.276,-0.168 0.408,-0.408 l 0.672,-1.152 q 0.084,-0.156 0.084,-0.288 0,-0.288 -0.324,-0.288 h -8.064 q -0.24,0 -0.516,0.168 -0.264,0.168 -0.396,0.408 l -1.332,2.304 q -0.084,0.156 -0.084,0.288 0,0.288 0.324,0.288 h 4.032 q 0.336,0 0.336,0.288 0,0.132 -0.084,0.288 l -0.672,1.152 q -0.132,0.24 -0.408,0.408 -0.264,0.168 -0.504,0.168 -0.324,0 -0.324,-0.288 0,-0.132 0.084,-0.288 l 0.336,-0.576 q 0.084,-0.156 0.084,-0.288 0,-0.288 -0.324,-0.288 h -2.88 q -0.24,0 -0.516,0.168 -0.264,0.168 -0.396,0.408 l -0.672,1.152 q -0.084,0.156 -0.084,0.288 0,0.288 0.336,0.288 h 8.064 q 0.228,0 0.492,-0.168 0.276,-0.168 0.408,-0.408 l 1.332,-2.304 q 0.096,-0.156 0.096,-0.288 0,-0.288 -0.336,-0.288 h -4.032 q -0.336,0 -0.336,-0.288 0,-0.132 0.096,-0.288 l 0.66,-1.152 q 0.144,-0.24 0.408,-0.408 0.264,-0.168 0.504,-0.168 0.324,0 0.324,0.288 0,0.132 -0.084,0.288 l -0.336,0.576 q -0.084,0.156 -0.084,0.288 0,0.288 0.336,0.288 z m 7.14001,-2.304 q -0.36,0 -0.36,-0.276 0,-0.108 0.072,-0.228 0.144,-0.252 0.144,-0.552 0,-0.204 -0.072,-0.324 l -1.596,-2.712 q -0.072,-0.108 -0.18,-0.108 -0.192,0 -0.372,0.312 l -5.58,9.648 q -0.084,0.156 -0.084,0.288 0,0.288 0.336,0.288 h 2.88 q 0.228,0 0.492,-0.168 0.276,-0.168 0.408,-0.408 l 2.664,-4.608 q 0.144,-0.24 0.408,-0.408 0.264,-0.168 0.504,-0.168 v 0 q 0.324,0 0.324,0.288 0,0.132 -0.084,0.288 l -2.664,4.608 q -0.084,0.156 -0.084,0.288 0,0.288 0.336,0.288 h 2.88 q 0.228,0 0.492,-0.168 0.276,-0.168 0.408,-0.408 l 3,-5.184 q 0.084,-0.156 0.084,-0.288 0,-0.288 -0.324,-0.288 z"
+         id="text1"
+         style="font-family:'Planet Kosmos';-inkscape-font-specification:'Planet Kosmos';white-space:pre;fill:#ffffff;stroke:#000000;stroke-width:2.13543;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.66213101,-0.43380991)"
+         aria-label="fl  sh" />
+      <path
+         sodipodi:type="star"
+         style="fill:url(#linearGradient4);fill-opacity:1;stroke:#000000;stroke-width:0.326216;stroke-dasharray:none;stroke-opacity:1"
+         id="path2"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="43.380997"
+         sodipodi:cy="59.020985"
+         sodipodi:r1="2.4340563"
+         sodipodi:r2="1.2170281"
+         sodipodi:arg1="0.93855178"
+         sodipodi:arg2="1.5668703"
+         inkscape:rounded="0.1"
+         inkscape:randomized="0"
+         d="m 44.819419,60.984545 c -0.130393,0.09552 -1.272008,-0.747176 -1.433644,-0.746542 -0.161636,6.35e-4 -1.296599,0.85227 -1.427739,0.757776 -0.131139,-0.09449 0.317535,-1.440642 0.266984,-1.594171 -0.05055,-0.153529 -1.211228,-0.969773 -1.161884,-1.123694 0.04935,-0.153921 1.468256,-0.143189 1.598649,-0.23871 0.130394,-0.09552 0.54802,-1.451622 0.709656,-1.452257 0.161636,-6.34e-4 0.589897,1.352146 0.721036,1.44664 0.131139,0.09449 1.549922,0.07262 1.600474,0.22615 0.05055,0.153529 -1.103679,0.978862 -1.153024,1.132783 -0.04934,0.153921 0.409885,1.496505 0.279492,1.592025 z"
+         inkscape:transform-center-x="-0.12560991"
+         inkscape:transform-center-y="-0.15629954"
+         transform="matrix(0.79518026,0,-0.3706067,0.68068411,31.54086,13.068675)"
+         inkscape:export-filename="flash.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:0.960773px;font-family:Roadam;-inkscape-font-specification:Roadam;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.384687;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="48.800316"
+       y="55.625778"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.960773px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.384688"
+         x="48.800316"
+         y="55.625778">beta</tspan></text>
+  </g>
+</svg>
