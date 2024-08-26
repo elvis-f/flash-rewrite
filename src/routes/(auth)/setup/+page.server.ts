@@ -30,14 +30,14 @@ export const actions = {
 
 		let result = await db_client.user.update({
 			where: { id: user_id },
-			data: { username: username }
+			data: { username: username, first_time_setup: false }
 		})
 
 		if(result) {
-			db_client.user.update({
-				where: { id: user_id },
-				data: { first_time_setup: false }
-			})
+			// db_client.user.update({
+			// 	where: { id: user_id },
+			// 	data: { first_time_setup: false }
+			// })
 			return (redirect(302, "/profile"))
 		}else{
 			return ({ success: false })
